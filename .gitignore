@@ -1,2 +1,11 @@
+# Virtual environment
 /venv
 .env
+
+# Database
+site.db
+*.sqlite3
+
+# Alembic migration cache
+migrations/__pycache__/
+migrations/*.pyc

@@ -1,0 +1,6 @@
+# 05/01/2024
+alembic==1.14.0
+Flask==3.1.0
+Jinja2==3.1.5
+SQLAlchemy==2.0.36
+
